@@ -10,3 +10,9 @@
  *
  * 3. Выведите значение последней переменной в консоль
  */
+
+const MyName = "Maxim"
+const MySurname = "Dvornoikov"
+const MyProfession = "Programmer"
+const Iam = 'Меня зовут ' + MyName + ' ' + MySurname + ' и я ' + MyProfession
+console.log(Iam)
