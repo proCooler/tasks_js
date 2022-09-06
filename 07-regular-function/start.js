@@ -8,3 +8,10 @@
  *
  * 4. Вызовите функцию
  */
+
+function f() {
+    const MyName = "Maxim"
+    console.log(MyName)
+}
+
+f()

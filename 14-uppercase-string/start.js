@@ -12,3 +12,12 @@
  *
  * 5. Выведите в консоль значение второй переменной
  */
+
+
+const Paerem = "coolermaxim"
+console.log(Paerem instanceof String)
+console.log(typeof Paerem)
+let Paerem2 = Paerem.toUpperCase()
+console.log(Paerem2)
+
+

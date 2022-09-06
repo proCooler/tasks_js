@@ -6,3 +6,7 @@
  *
  * 3. Выведите в консоль длину массива
  */
+
+arr = ["maxim", 5, false]
+console.log(arr[0])
+console.log(arr.length)

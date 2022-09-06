@@ -4,3 +4,7 @@
  *
  * 2. Виведите в консоль длину этой строки
  */
+
+let perem = "MyProgramJavaScript"
+
+console.log(perem.length)

@@ -8,3 +8,8 @@
  *
  * 4. Выведите в консоль измененный массив
  */
+
+arr = ["maxim", 6, true]
+console.log(arr)
+arr[2] = 30
+console.log(arr)

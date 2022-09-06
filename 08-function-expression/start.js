@@ -10,3 +10,9 @@
  *
  * 5. Результат вызовов функции выведите в консоль
  */
+
+
+let perem = (name) => console.log("Привет " + name)
+
+perem("Maxim")
+perem("Yurii")
